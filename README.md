@@ -1,8 +1,5 @@
-# [twitterbio.io](https://www.twitterbio.io/)
 
-This project generates Twitter bios for you using AI.
-
-[![Twitter Bio Generator](./public/screenshot.png)](https://www.twitterbio.io)
+This project generates LinkedIn bios for you using AI.
 
 ## How it works
 
@@ -24,4 +21,4 @@ pnpm run dev
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Nutlope/twitterbio&env=OPENAI_API_KEY&project-name=twitter-bio-generator&repo-name=twitterbio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/timeowilliams/linkedinbio&env=OPENAI_API_KEY&project-name=linkedin-bio-generator&repo-name=linkedinbio)
